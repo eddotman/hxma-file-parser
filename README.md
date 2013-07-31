@@ -9,7 +9,7 @@ Hxma File Parser converts data files from the HXMA beamline at the Canadian Ligh
 Usage
 -----
 
-First, download the files: [hxma-file-parser.py](). Next, make sure that you have Python and NumPy installed. In Ubuntu, you can do this by typing:  
+First, download the files: [hxma-file-parser.py](https://github.com/eddotman/hxma-file-parser/archive/master.zip). Next, make sure that you have Python and [NumPy](http://www.numpy.org/) installed. In Ubuntu, you can do this by typing:  
 
 `sudo apt-get install python python-numpy`  
 
